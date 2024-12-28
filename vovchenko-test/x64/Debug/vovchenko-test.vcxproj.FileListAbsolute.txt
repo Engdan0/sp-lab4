@@ -1,0 +1,3 @@
+E:\Study\kursova\lab4\vovchenko-test\x64\Debug\gtest.pdb
+E:\Study\kursova\lab4\vovchenko-test\x64\Debug\gtest_main.pdb
+E:\Study\kursova\lab4\vovchenko-test\vovchenko-test\x64\Debug\vovchenk.8F6D961B.Up2Date
